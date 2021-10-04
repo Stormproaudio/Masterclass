@@ -1,7 +1,7 @@
 MIT License. Pivate Software Licensing
 Copyright (c) 2021 Storm Promedia. Storm Proaudio
 
-# UPDATED LICENSING TERMS FOR STORM REVOLUTION AND VIPER DRIVERS
+# UPDATED LICENSING TERMS 
 
 Permission is hereby granted, to any person obtaining a copy
 of our software "Storm Revolution" . Storm Revolution is a mod of the Viper app.
@@ -13,16 +13,22 @@ personal use only not to copy repackage, seperate, reupload the app or some part
 of the app to any media social sites, blogs, forums or even to send or distribute
 without permisison eithger via electronic means or physically by copying the app
 to a removeable storage. The viper app is an open source but the Driver developement,
-copyrights and licensing nown has seperate licensing and permsisions. the licensing 
-for driver developement are Privately MIT owned aqnd govern by anti piracy laws in your
-respective country
+copyrights and licensing now has seperate licensing and permsisions terms. The licensing 
+for Viper driver developement are now seperated and privately MIT owned and govern 
+by anti piracy laws and software intelectual property rights in Malaysia,
+United States of America and United Kingdon where these Licensed are commonly 
+have similar Laws
 
 That means you may copy viper to your device but you may NOT DEVELOPED or RELEASED
-any viper app if you are using our Drivers without first asking our permsiion.
-If found Guilty we will take you to court for breaching this terms and Licensing
+any copy of viper app if you are using the app witho the following drivers versions.
+Viper Legacy v2.5 or older and V2.6 upwards using the viper driver developed
+by Viper ACOUSTIC. If found Guilty we will take you to court for breaching
+this terms and Licensing. you may contact us via email for further information.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+# WARRANTY AND SOFTWARE LIABILITIES
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
