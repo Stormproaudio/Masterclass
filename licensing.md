@@ -20,7 +20,7 @@ United States of America and United Kingdon where these Licensed are commonly
 have similar Laws
 
 That means you may copy viper to your device but you may NOT DEVELOPED or RELEASED
-any copy of viper app if you are using the app witho the following drivers versions
+any copy of viper app if you are using the app with the following drivers versions
 Viper Legacy v2.5 or older and V2.6 upwards using the viper driver developed originally
 by Viper ACOUSTIC. Please contact us via email for further information.
 
