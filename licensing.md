@@ -20,13 +20,9 @@ United States of America and United Kingdon where these Licensed are commonly
 have similar Laws
 
 That means you may copy viper to your device but you may NOT DEVELOPED or RELEASED
-any copy of viper app if you are using the app witho the following drivers versions.
-Viper Legacy v2.5 or older and V2.6 upwards using the viper driver developed
-by Viper ACOUSTIC. If found Guilty we will take you to court for breaching
-this terms and Licensing. you may contact us via email for further information.
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+any copy of viper app if you are using the app witho the following drivers versions
+Viper Legacy v2.5 or older and V2.6 upwards using the viper driver developed originally
+by Viper ACOUSTIC. Please contact us via email for further information.
 
 # WARRANTY AND SOFTWARE LIABILITIES
 
@@ -43,5 +39,7 @@ CAN BE CHARGED IN COURTS WHERE FULL PENALTY CAN BE CHARGED UPON YOU BY
 THE STATE LAW OR LAW IN YOUR COUNTRY AGAINTS INTELLECTUAL PROPERTY AND
 SOFTWARE PIRACY LAWS
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 Copyright (c) 2021 Storm Promedia. Storm Proaudio . Stormviper.group@gmail.com
 
