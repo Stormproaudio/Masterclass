@@ -1,0 +1,21 @@
+Storm ProAudio 2021 All rights Reserved. MIT Licensing Software.
+
+Rootless Installation Tutorial
+
+#Requirements...
+1. Unlocked Bootloader Device
+2. Any custom ROMs..AOSP, AICP , MIUI Android 9 and above
+3. Capable to load twrp or equivalent ( via recovery or adb over PC)
+4. Flash zackptg Rootless driver
+5. After reboot Install Storm Revolution Masterclass
+6. Detect Permission Also Instal Drivers.
+7. Reboot Device
+8. Start Revolution Masterclass and check Drivers.
+9. Check if Driver enable. Play any audio, in most cases starting a playback would trigger Viper to process Audio
+
+# note - a full Rootless on AOSP only possible with Storm Revolution Masterclass or Storm Revolution Inifinity.
+If you use stock viper4android you get disconnecting and non processing issues..
+also this solution is best done on clean flash rom. the request was to run viper in a secure environment.
+
+Tutorial Prepaid By Jay Soliano @ Storm for Storm ProAudio
+
